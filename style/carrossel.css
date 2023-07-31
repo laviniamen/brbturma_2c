@@ -69,3 +69,7 @@
     color: var(--branco);
     text-decoration: none;
 }
+
+.estrelinhas{
+    padding: 0.5em 0.5em 0.5em 0;
+}
